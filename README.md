@@ -1,66 +1,65 @@
-# Roadmap para Aprender Java + Spring Boot en 4 Meses
+# Plataforma de Aprendizaje: Desarrollo Web y Backend
 
 ## 📌 Introducción
-Este documento presenta un **roadmap visual** y un **plan de estudio detallado** para aprender **Java + Spring Boot** en 4 meses, orientado a desarrolladores que desean trabajar en **empresas grandes** y proyectos corporativos.
+Este repositorio es un espacio pensado para aprender a programar y practicar tecnologías de desarrollo web: desde HTML/CSS/JavaScript en el frontend hasta Java + Spring Boot y herramientas DevOps en el backend. Aquí encontrarás guías, ejercicios y proyectos prácticos organizados por niveles.
 
 ---
 
-## 🗺️ Roadmap Visual
-![Roadmap Visual](4eb31f4ce6.png)
+## 🎯 Qué encontrarás aquí
+- Contenidos explicativos y resúmenes teóricos
+- Ejercicios prácticos y retos con soluciones
+- Proyectos guiados (mini-proyectos y proyecto final)
+- Recursos (tutoriales, libros, enlaces oficiales)
+- Buenas prácticas y ejemplos de arquitectura
 
 ---
 
-## 📆 Plan de Estudio Detallado
-
-### ✅ Mes 1: Fundamentos de Java
-- Sintaxis y conceptos básicos
-- Programación Orientada a Objetos (POO): clases, herencia, interfaces
-- Colecciones y Streams
-- Manejo de excepciones
-- Concurrencia (Threads, Executors)
-
-### ✅ Mes 2: Spring Boot Básico
-- Introducción a Spring Boot
-- Creación de APIs REST
-- Spring Data JPA (CRUD con bases de datos)
-- Spring Security (autenticación y autorización)
-
-### ✅ Mes 3: Temas Avanzados
-- Microservicios con Spring Boot
-- Spring Cloud (config server, discovery)
-- Docker y Kubernetes (despliegue)
-- Mensajería: Kafka, RabbitMQ
-- Testing: JUnit, Mockito
-
-### ✅ Mes 4: Buenas Prácticas y Herramientas
-- Arquitectura limpia
-- CI/CD (Jenkins, GitHub Actions)
-- Documentación con Swagger/OpenAPI
-- PostgreSQL (optimización)
-- Kafka (integración avanzada)
+## 🧭 Estructura recomendada de estudio
+1. Fundamentos (HTML, CSS, JavaScript)
+2. Control de versiones con Git
+3. Backend básico (Java, Node.js o Python) y APIs REST
+4. Frameworks: Spring Boot (Java) / Express (Node)
+5. Persistencia: SQL (PostgreSQL) y ORM (JPA/Hibernate)
+6. Testing: unitario e integración (JUnit, Mockito)
+7. Contenedores y despliegue: Docker, Kubernetes
+8. Integración continua y entrega continua (CI/CD)
 
 ---
 
-## 📚 Recursos Recomendados
-- [Documentación oficial de Java](https://docs.oracle.com/javase/tutorial/)
-- [Documentación oficial de Spring Boot](https://spring.io/projects/spring-boot)
-- Cursos en **Udemy**, **Platzi**, **Spring Academy**
-- Libros: *Spring in Action*, *Effective Java*
+## 🛠️ Ejercicios y prácticas
+- Ejercicios por temática y nivel (inicio/intermedio/avanzado).
+- Retos cortos: crear páginas estáticas, formularios y consumo de APIs.
+- Retos backend: endpoints CRUD, autenticación con JWT, pruebas unitarias.
+- Proyecto guiado: construir una pequeña app completa (frontend + backend + DB + despliegue).
+
+Cada carpeta dentro del repositorio contiene ejercicios y material relacionado. Empieza por las carpetas `Ingles/`, `Practicas/`, `Proyectos/` y `Tecnologias/` para ver ejemplos y tareas.
 
 ---
 
-## 🏗️ Proyecto Final Sugerido
-**Sistema de Gestión Empresarial con Microservicios**
-- Backend: Java + Spring Boot
-- Autenticación: Spring Security + JWT
-- Base de datos: PostgreSQL
-- Integración con Kafka para mensajería
-- Despliegue con Docker y Kubernetes
-- Documentación con Swagger
-- Pipeline CI/CD con Jenkins
-
-Este proyecto consolidará todos los conocimientos adquiridos y te preparará para entornos corporativos.
+## 🤝 Cómo usar este repositorio
+1. Clona el repositorio en tu máquina.
+2. Explora las carpetas de la raíz y abre los archivos HTML o proyectos.
+3. Sigue los ejercicios en `Practicas/` y sube tus soluciones en una rama nueva.
+4. Abre issues para dudas, propuestas de ejercicios o reportes.
 
 ---
 
-¡Éxito en tu camino hacia el desarrollo backend profesional!
+## 📚 Recursos recomendados
+- Documentación oficial de MDN Web Docs (HTML/CSS/JS)
+- Documentación oficial de Java y Spring Boot
+- Cursos y libros recomendados (links y sugerencias dentro de cada carpeta)
+
+---
+
+## 🧩 Contribuir
+Si quieres contribuir con ejercicios, soluciones o mejoras, crea una rama, añade tu contenido y abre un Pull Request. Abre un issue si quieres proponer una ruta de aprendizaje o un nuevo reto.
+
+---
+
+## 🔜 Siguientes pasos sugeridos
+- Añadir una carpeta `exercises/` con retos numerados y un `README` por nivel.
+- Crear plantillas de issues para enviar soluciones y feedback.
+
+---
+
+¡Bienvenido! Empieza por abrir `Practicas/practicas.html` o `Proyectos/Proyectos.html` para ver las primeras actividades.
