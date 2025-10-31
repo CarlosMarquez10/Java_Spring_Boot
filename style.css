@@ -4,13 +4,13 @@
     box-sizing: border-box;
 }
 
-body {
+/* body {
     font-family: 'Verdana', sans-serif;
     background-color: #f4f4f4;
     color: #555;
     line-height: 1.6;
     padding: 20px;
-}
+} */
 
 main {
     max-width: 1200px;
@@ -55,7 +55,7 @@ main {
 }
 
 .card_html{
-    width: 100px;
+    width: 80px;
     height: 70px;
     background-color: #333;
     color: #fff;
@@ -66,6 +66,11 @@ main {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     cursor: pointer;
     transition: background-color 0.3s ease;
+}
+
+.icons {
+    font-size: 40px;
+    color: cornflowerblue;
 }
 
 footer {
