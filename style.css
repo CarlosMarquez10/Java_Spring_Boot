@@ -12,7 +12,7 @@
     padding: 20px;
 } */
 
-main {
+/* main {
     max-width: 1200px;
     margin: auto;
     height: 100vh;
@@ -21,24 +21,24 @@ main {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
-}
+} */
 
-.container_principal{
+/* .container_principal{
     max-width: 1200px;
     height: 90%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
+} */
 
-.container_principal aside{
+/* .container_principal aside{
     width: 40%;
     height: 100%;
     margin-right: 20px;
     background-color: #333;
     color: #fff;
     padding: 10px 0px 0px 30px;
-}
+} */
 
 .containerCards{
     width: 60%;
